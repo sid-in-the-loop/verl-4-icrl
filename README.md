@@ -3,6 +3,7 @@
 ## Mathematical Formulation (GRPO Backbone)
 
 ---
+
 ## 1. Setup and Notation
 
 Let
